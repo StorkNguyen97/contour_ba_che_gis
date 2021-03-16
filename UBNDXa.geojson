@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "UBNDXa",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Comune": "UBND xã Thanh Lâm", "District": "Ba Chẽ", "Province": "Quảng Ninh", "lat": 21.275328, "lon": 107.315881 }, "geometry": { "type": "Point", "coordinates": [ 107.315881, 21.275328 ] } },
+{ "type": "Feature", "properties": { "Comune": "UBND xã Nam Sơn", "District": "Ba Chẽ", "Province": "Quảng Ninh", "lat": 21.32906, "lon": 107.162017 }, "geometry": { "type": "Point", "coordinates": [ 107.162017, 21.32906 ] } },
+{ "type": "Feature", "properties": { "Comune": "UBND xã Thanh Sơn", "District": "Ba Chẽ", "Province": "Quảng Ninh", "lat": 21.298415, "lon": 107.224165 }, "geometry": { "type": "Point", "coordinates": [ 107.224165, 21.298415 ] } },
+{ "type": "Feature", "properties": { "Comune": "UBND xã Đồn Đạc", "District": "Ba Chẽ", "Province": "Quảng Ninh", "lat": 21.263516, "lon": 107.280761 }, "geometry": { "type": "Point", "coordinates": [ 107.280761, 21.263516 ] } },
+{ "type": "Feature", "properties": { "Comune": "UBND xã Đạp Thanh", "District": "Ba Chẽ", "Province": "Quảng Ninh", "lat": 21.285204, "lon": 107.115556 }, "geometry": { "type": "Point", "coordinates": [ 107.115556, 21.285204 ] } },
+{ "type": "Feature", "properties": { "Comune": "UBND xã Lương Mông", "District": "Ba Chẽ", "Province": "Quảng Ninh", "lat": 21.257705, "lon": 107.020111 }, "geometry": { "type": "Point", "coordinates": [ 107.020111, 21.257705 ] } },
+{ "type": "Feature", "properties": { "Comune": "UBND xã Minh Cầm", "District": "Ba Chẽ", "Province": "Quảng Ninh", "lat": 21.246103, "lon": 107.065552 }, "geometry": { "type": "Point", "coordinates": [ 107.065552, 21.246103 ] } },
+{ "type": "Feature", "properties": { "Comune": "UBND tt Ba Chẽ", "District": "Ba Chẽ", "Province": "Quảng Ninh", "lat": 21.272448, "lon": 107.279971 }, "geometry": { "type": "Point", "coordinates": [ 107.279971, 21.272448 ] } }
+]
+}
